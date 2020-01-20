@@ -2,19 +2,45 @@ adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 background;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
-cache-path;E:\Git Projects\Mid\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+Button;obj\Debug\90\res\layout\activity_main.xml
+Button;obj\Debug\90\res\layout\calculator.xml
+Button;obj\Debug\90\res\layout\intro.xml
+Button;obj\Debug\90\res\layout\introscreen.xml
+Button;obj\Debug\90\res\layout\pantry.xml
+Button;obj\Debug\90\res\layout\recipes.xml
+cache-path;E:\Git Projects\MidTerm\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 color;obj\Debug\90\res\values\colors.xml
 color;obj\Debug\90\res\values\ic_launcher_background.xml
-external-cache-path;E:\Git Projects\Mid\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-external-path;E:\Git Projects\Mid\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;E:\Git Projects\MidTerm\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;E:\Git Projects\MidTerm\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher.xml
 foreground;obj\Debug\90\res\mipmap-anydpi-v26\ic_launcher_round.xml
+GridLayout;obj\Debug\90\res\layout\activity_main.xml
+GridLayout;obj\Debug\90\res\layout\calculator.xml
+GridLayout;obj\Debug\90\res\layout\intro.xml
+GridLayout;obj\Debug\90\res\layout\introscreen.xml
+GridLayout;obj\Debug\90\res\layout\layout1.xml
+GridLayout;obj\Debug\90\res\layout\pantry.xml
+GridLayout;obj\Debug\90\res\layout\recipes.xml
 item;obj\Debug\90\res\values\styles.xml
-paths;E:\Git Projects\Mid\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
-RelativeLayout;obj\Debug\90\res\layout\activity_main.xml
+LinearLayout;obj\Debug\90\res\layout\activity_main.xml
+LinearLayout;obj\Debug\90\res\layout\calculator.xml
+LinearLayout;obj\Debug\90\res\layout\intro.xml
+LinearLayout;obj\Debug\90\res\layout\introscreen.xml
+LinearLayout;obj\Debug\90\res\layout\layout1.xml
+LinearLayout;obj\Debug\90\res\layout\pantry.xml
+LinearLayout;obj\Debug\90\res\layout\recipes.xml
+paths;E:\Git Projects\MidTerm\MidTerm\MidTerm\obj\Debug\90\lp\35\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;obj\Debug\90\res\values\colors.xml
 resources;obj\Debug\90\res\values\ic_launcher_background.xml
 resources;obj\Debug\90\res\values\strings.xml
 resources;obj\Debug\90\res\values\styles.xml
 string;obj\Debug\90\res\values\strings.xml
 style;obj\Debug\90\res\values\styles.xml
+TextView;obj\Debug\90\res\layout\activity_main.xml
+TextView;obj\Debug\90\res\layout\calculator.xml
+TextView;obj\Debug\90\res\layout\intro.xml
+TextView;obj\Debug\90\res\layout\introscreen.xml
+TextView;obj\Debug\90\res\layout\layout1.xml
+TextView;obj\Debug\90\res\layout\pantry.xml
+TextView;obj\Debug\90\res\layout\recipes.xml

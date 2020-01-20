@@ -1,0 +1,38 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    
+    android:minWidth="25px"
+    android:minHeight="25px">
+    
+    <GridLayout
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:theme="@style/AppTheme"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gridLayout1">
+        <Button
+            android:text="Recipes"
+            android:id="@+id/recipe" />
+        <Button
+            android:text="Pantry"
+            android:id="@+id/pantry" />
+        <Button
+            android:text="Calculator"
+            android:id="@+id/calculator" />
+        <Button
+            android:text="Profile"
+            android:id="@+id/button4" />
+        <TextView
+            android:text="Recipes!"
+            android:textSize="25sp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="-375dp"
+            android:id="@+id/textView1" />
+    </GridLayout>
+</LinearLayout>
