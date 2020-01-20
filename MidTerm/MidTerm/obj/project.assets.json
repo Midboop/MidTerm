@@ -1557,11 +1557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Git Projects\\Mid\\MidTerm\\MidTerm\\MidTerm.csproj",
+      "projectUniqueName": "E:\\Git Projects\\MidTerm\\MidTerm\\MidTerm\\MidTerm.csproj",
       "projectName": "MidTerm",
-      "projectPath": "E:\\Git Projects\\Mid\\MidTerm\\MidTerm\\MidTerm.csproj",
+      "projectPath": "E:\\Git Projects\\MidTerm\\MidTerm\\MidTerm\\MidTerm.csproj",
       "packagesPath": "C:\\Users\\Dylan\\.nuget\\packages\\",
-      "outputPath": "E:\\Git Projects\\Mid\\MidTerm\\MidTerm\\obj\\",
+      "outputPath": "E:\\Git Projects\\MidTerm\\MidTerm\\MidTerm\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
